@@ -6,7 +6,7 @@ This project provides a comprehensive suite of **unit tests** for the Blog Platf
 
 ---
 
-## What¡¯s Being Tested?
+## What is Being Tested?
 
 The `PostController` from the Blog Platform API, which exposes endpoints for:
 
@@ -23,8 +23,8 @@ The controller depends on an abstraction: `IPostService`. In our tests, I mock t
 ## Technologies Used
 
 - .NET 8.0
-- xUnit ¨C Unit testing framework
-- Moq ¨C Mocking framework for .NET
+- xUnit(Unit testing framework)
+- Moq(Mocking framework for .NET)
 - C#
 
 ---
